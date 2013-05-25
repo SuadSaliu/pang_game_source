@@ -1,0 +1,23 @@
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\bin\Release\Pang_.exe
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\bin\Release\Pang_.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\Pang_.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\Pang_.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\Pang_.exe
+C:\Users\User\AppData\Local\Temporary Projects\Pang_\obj\x86\Release\Pang_.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.exe
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\bin\Release\Pang_.exe
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\bin\Release\Pang_.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.startTheGame.resources
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.PlayerName.resources
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.Level.resources
+C:\Users\User\documents\visual studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.DevelopedBy.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Pang_\Pang_\obj\x86\Release\Pang_.HighScore1.resources
